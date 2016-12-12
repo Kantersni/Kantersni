@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<div xmlns:field="urn:jsptagdir:/WEB-INF/tags/form/fields" xmlns:form="urn:jsptagdir:/WEB-INF/tags/form" xmlns:jsp="http://java.sun.com/JSP/Page" version="2.0">
+    <jsp:directive.page contentType="text/html;charset=UTF-8"/>
+    <jsp:output omit-xml-declaration="yes"/>
+    <form:update id="fu_com_se_team02_domain_Getproduct" modelAttribute="getproduct" path="/getproducts" versionField="Version" z="/TzLJ0ybZq9oUjuTXsEQSet/Va0=">
+        <field:input field="name" id="c_com_se_team02_domain_Getproduct_name" min="2" required="true" z="O4TPKVBPsw5zNIKvRzE4ypXMiZ8="/>
+    </form:update>
+</div>
